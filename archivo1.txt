@@ -1,5 +1,8 @@
 Primera linea del archivo 1
+<<<<<<< HEAD
 Segunda linea del archivo 1
 Tercera linea del archivo 1
 Cuarta linea del archivo 1
 Quinta linea del archivo 1
+=======
+>>>>>>> parent of e0f26a9 (Segundo commit)
